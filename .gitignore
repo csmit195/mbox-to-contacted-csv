@@ -1,6 +1,0 @@
-node_modules/
-*.mbox
-*.csv
-*.txt
-package-lock.json
-.gitignore
