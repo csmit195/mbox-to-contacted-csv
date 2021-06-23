@@ -1,0 +1,8 @@
+{
+    "input": "mail.mbox",
+    "output": "output.csv",
+    "print_log": false,
+    "ignore_sent": true,
+    "ignore_draft": true,
+    "my_emails": ["dev.chris.smith@gmail.com"]
+}
