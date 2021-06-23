@@ -26,9 +26,10 @@ If all was followed correctly, your folder layout should be:
 
 ## Usage
 1. Open up `Command Prompt`
-2. `cd <your directory>`
-3. type `node index.js`
-4. Wait until the script has finished running and a `CSV` file has appeared in the extracted directory.
+2. type `cd <your directory>` *(replace your directory with the full absolute path to the extracted directory)*
+3. type `npm install`
+4. type `node index.js`
+5. Wait until the script has finished running and a `CSV` file has appeared in the extracted directory.
 
 ## Config
 You only need to modify one of the config options, and that's the `my_emails` field.
