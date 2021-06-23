@@ -3,4 +3,3 @@ node_modules/
 *.csv
 *.txt
 package-lock.json
-.gitignore
