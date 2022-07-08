@@ -1,6 +1,6 @@
 # `.mbox` parser -> email list `.csv`
 
-A very simple script for parsing `.mbox` files into a readable `.csv`, originally created for a guy on Facebook. If you have any issues or need assistance, please dm me on discord, I'm happy to provide advice: csmit195#4729
+A very simple script for parsing `.mbox` files into a readable `.csv`, this script is SPECIFICALLY for identifying every contacted email, could be used for corporate  forensics, or can be expanded on, originally created for a guy on Facebook. If you have any issues or need assistance, please dm me on discord, I'm happy to provide advice: csmit195#4729
 
 ## Requirements
 1. NodeJS LTS Latest - [Download  Installer](https://nodejs.org/en/download/)
